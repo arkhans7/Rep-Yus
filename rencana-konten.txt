@@ -5,4 +5,4 @@ RENCANA CODING
 - Python
 * Fundamental Programming
 - SQL
-- 
+* Database Management
