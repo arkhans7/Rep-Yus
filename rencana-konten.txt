@@ -4,5 +4,6 @@ RENCANA CODING
 * Project Kalkulator
 - Python
 * Fundamental Programming
-* Visualisasi
-
+- SQL
+* Database Management
+* ERP
