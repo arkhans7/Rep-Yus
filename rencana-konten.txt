@@ -3,5 +3,6 @@ RENCANA CODING
 - VSCode
 * Project Kalkulator
 - Python
+* Fundamental Programming
 - SQL
 - 
