@@ -1,0 +1,4 @@
+REP YUS
+- Konten Mingguan
+- Platform mengelola code hub
+- Create RAG Doc
