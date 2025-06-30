@@ -1,5 +1,7 @@
 RENCANA CODING
 
 - VSCode
+* Project Kalkulator
 - Python
 - SQL
+- 
