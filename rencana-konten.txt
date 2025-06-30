@@ -6,3 +6,4 @@ RENCANA CODING
 * Fundamental Programming
 - SQL
 * Database Management
+* ERP
