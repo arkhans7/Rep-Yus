@@ -4,5 +4,5 @@ RENCANA CODING
 * Project Kalkulator
 - Python
 * Fundamental Programming
-- SQL
-- 
+* Visualisasi
+
